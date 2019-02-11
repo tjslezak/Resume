@@ -20,25 +20,25 @@ Galvanize, Data Science Fellow, Fall 2018 to Present
   • Analyzed Phoenix metro area Hit & Run accident prevalence using open data
   • Explored the use of modern satellite data in machine learning applications
 
-Brigham Young University, Research & Teaching Assistant, Fall 2015 to Winter 2017
+Brigham Young University, Research & Teaching Assistant, Fall 2015 to Winter 2017, Provo UT 84602
   • Investigated how the morphology of landforms relates to geologic processes
   • Delivered science content and materials at the university-level
   • Developed course curriculum to meet new educational objectives
 
-Lunar and Planetary Institute, Graduate Exploration Intern, Summer 2016
+Lunar and Planetary Institute, Graduate Exploration Intern, Summer 2016, Houston TX 77058
   • Planned a human/telerobotic mission on an international team for NASA HQ
   • Prepared & analyzed global lunar datasets
   • Identified high-value science targets for future lunar exploration
 
-Arizona State University, Pancam Team Research Aid, Fall 2013 to Summer 2015
-  • processed & calibrated raw imagery acquired by the opportunity mars rover
-  • co-managed science team workstations, servers, & scientific software
+Arizona State University, Pancam Team Research Aid, Fall 2013 to Summer 2015, Tempe AZ 85287
+  • Processed & calibrated raw imagery acquired by the opportunity mars rover
+  • Co-managed science team workstations, servers, & scientific software
 
-Jet Propulsion Laboratory, NASA PGGURP Research Intern, Summer 2014
+Jet Propulsion Laboratory, NASA PGGURP Research Intern, Summer 2014, Pasadena CA 91109
   • Modeled slope stability of observed scarps on Io thermal constraints
   • Constrained the mechanical strength and composition of Io's upper crust
 
-U.S. Geological Survey Astrogeology Branch, Research Associate, Summer 2013
+U.S. Geological Survey Astrogeology Branch, Research Associate, Summer 2013, Flagstaff AZ 86001
   • Tested a model of Io's upper crust using observations and proposed compositions
   • Performed slope stability analysis on 50+ physical and material variables
 
@@ -54,6 +54,9 @@ Bachelor's of Science (BS), Earth & Space Exploration (Geological Sciences), 201
     Minor: Science, Technology, & Society
 
 
+Certificates
+Deep Learning, Python for Research, The Unix Workbench 
+
 Projects
 
 Slezak, 2019: "Geomapper", https://github.com/tjslezak/capstone
@@ -61,6 +64,8 @@ Slezak, 2019: "Geomapper", https://github.com/tjslezak/capstone
     Task: Map the geology of regions using semantic segmentation (tensorflow)
     Training: ~24 hrs on a P3.2XLarge GPU instance
     Score: 71% recall, 73% precision
+
+    A predictive geologic mapping tool that uses multi-spectral satellite imagery and convolutional neural network model architecture to predict and map geology of regions that are inaccessible on foot.
 
 Allender E.J., et al. 2018. Traverses for the ISECG-GER Design Reference Mission for Humans on the Lunar Surface. Advances in Space Research.
 
@@ -75,5 +80,5 @@ PyData Phoenix Organizer, 2019 to present
 Skills
 Languages: Python, SQL, Unix/Linux, R
 Tools: data structures & pipelines, web scraping & data mining, probability, linear & logistic regression, bayesian inference, random forests, boosting & gradient descent, natural language processing, A/B testing, recommenders & forecasting, dimensionality reduction, unsupervised learning, computer vision, deep learning 
-Technology: docker w/ nvidia GPUs, cloud: AWS & GCP, spark, dask & hadoop, postgreSQL & mongoDB, QGIS & GDAL 
+Technology: docker w/ nvidia GPUs, cloud: AWS, Azure, & GCP, spark, dask & hadoop, postgreSQL & mongoDB, QGIS & GDAL 
 
