@@ -16,9 +16,9 @@ Github: https://github.com/tjslezak
 Experience
 
 Galvanize, Data Science Fellow, Fall 2018 to Present
-  • Advanced and maintained data science skills through projects and collaboration
+  • Advanced data science skills through projects and collaboration
   • Analyzed Phoenix metro area Hit & Run accident prevalence using open data
-  • Explored the use of modern satellite data in machine learning applications
+  • Explored use cases for COG satellite data in machine learning applications
 
 Brigham Young University, Research & Teaching Assistant, Fall 2015 to Winter 2017, Provo UT 84602
   • Investigated how the morphology of landforms relates to geologic processes
