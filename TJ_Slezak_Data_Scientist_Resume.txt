@@ -17,17 +17,17 @@ Experience
 
 Galvanize, Data Science Fellow, Fall 2018 to Present
   • Advanced data science skills through projects and collaboration
-  • Analyzed Phoenix metro area Hit & Run accident prevalence using open data
-  • Explored use cases for COG satellite data in machine learning applications
+  • Predicted Phoenix metro hit & run accident incidence using open data
+  • Examined use cases for modern satellite data in machine learning applications
 
 Brigham Young University, Research & Teaching Assistant, Fall 2015 to Winter 2017, Provo UT 84602
-  • Investigated how the morphology of landforms relates to geologic processes
-  • Delivered science content and materials at the university-level
+  • Investigated how landform morphology relates to geologic processes
+  • Delivered science content and materials at the university level
   • Developed course curriculum to meet new educational objectives
 
 Lunar and Planetary Institute, Graduate Exploration Intern, Summer 2016, Houston TX 77058
-  • Planned a human/telerobotic mission on an international team for NASA HQ
-  • Prepared & analyzed global lunar datasets
+  • Planned a human-telerobotic mission on an international team for NASA HQ
+  • Prepared & analyzed planetary-scale lunar datasets
   • Identified high-value science targets for future lunar exploration
 
 Arizona State University, Pancam Team Research Aid, Fall 2013 to Summer 2015, Tempe AZ 85287
@@ -65,7 +65,7 @@ Slezak, 2019: "Geomapper", https://github.com/tjslezak/capstone
     Training: ~24 hrs on a P3.2XLarge GPU instance
     Score: 71% recall, 73% precision
 
-    A predictive geologic mapping tool that uses multi-spectral satellite imagery and convolutional neural network model architecture to predict and map geology of regions that are inaccessible on foot.
+    A predictive geologic mapping tool using multi-spectral satellite imagery and a convolutional neural network model to predict and map regions of Arizona's geology.
 
 Allender E.J., et al. 2018. Traverses for the ISECG-GER Design Reference Mission for Humans on the Lunar Surface. Advances in Space Research.
 
@@ -80,5 +80,5 @@ PyData Phoenix Organizer, 2019 to present
 Skills
 Languages: Python, SQL, Unix/Linux, R
 Tools: data structures & pipelines, web scraping & data mining, probability, linear & logistic regression, bayesian inference, random forests, boosting & gradient descent, natural language processing, A/B testing, recommenders & forecasting, dimensionality reduction, unsupervised learning, computer vision, deep learning 
-Technology: docker w/ nvidia GPUs, cloud: AWS, Azure, & GCP, spark, dask & hadoop, postgreSQL & mongoDB, QGIS & GDAL 
+Technology: Docker, Cloud: AWS, Azure, & GCP, Spark, dask & hadoop, postgreSQL & mongoDB, QGIS & GDAL 
 
